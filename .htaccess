@@ -3,7 +3,7 @@
     RewriteEngine On
     
     #The base folder (where index.php is found)
-    RewriteBase /robot/
+    RewriteBase /robot-v1/
 
     #Removes access to the system folder by users.
     
